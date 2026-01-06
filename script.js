@@ -1,7 +1,7 @@
 // ==========================================
 // --- 0. API CONFIG & HELPER ---
 // ==========================================
-const API_URL = "https://script.google.com/macros/s/AKfycby9KZl30b5bICI4Mb5QAjJk7CPw2FAF9zAk9E_sopOk0uHkVrKkSOjlvDPmqYGoXK-STg/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycby2Tzs57NeaSJX8irEo_liff_hbRTL2JIwcbqo8iwm7bdbO5VSxtf5fbK8fDZ5WMjA/exec";
 
 async function runApi(action, payload = null) {
     try {
